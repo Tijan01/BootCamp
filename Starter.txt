@@ -1,0 +1,9 @@
+BOOTCAMP
+> PHP         v
+> PostgreSql  
+> Composer    v
+> PgAdmin     
+> TextEditor
+
+Materi :
+Database, Table > field / coloum, Tipe Data, Key.
